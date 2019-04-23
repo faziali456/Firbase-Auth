@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "283377124697",
+    "firebase_url": "https://assort-firebase-auth.firebaseio.com",
+    "project_id": "assort-firebase-auth",
+    "storage_bucket": "assort-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283377124697:android:1b56edf949e8b092",
+        "android_client_info": {
+          "package_name": "com.assorttech.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283377124697-64va8t5n674ecmrlqqbkcjn3vdcqbq05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assorttech.flutterfirebase",
+            "certificate_hash": "3542ef480bc8fa97af8fe5636b0fd518df35a245"
+          }
+        },
+        {
+          "client_id": "283377124697-5vr7b74akm8vie1h6huroiqcj598tr9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLPS3fn0zR-Qnkaqe3oEAeeOq_VXalRN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283377124697-5vr7b74akm8vie1h6huroiqcj598tr9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
